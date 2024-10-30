@@ -1,0 +1,24 @@
+div#author-box {
+	border: 1px solid #bbb; 
+	background: #eee; 
+	padding: 20px; 
+}
+
+div#author-box img {
+	float: left; 
+	margin-right: 20px; 
+}
+
+div#author-box p {
+
+}
+
+div#author-box h3 {
+	margin: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+
+.clear {
+	clear: both;
+} 
